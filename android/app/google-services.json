@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912957573031",
+    "firebase_url": "https://patika-9a6a1-default-rtdb.firebaseio.com",
+    "project_id": "patika-9a6a1",
+    "storage_bucket": "patika-9a6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912957573031:android:116235350b4d0541f71882",
+        "android_client_info": {
+          "package_name": "com.bananee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912957573031-1hutks26iq9mfgjm2p421gkgk6iimb96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ByyJXWKsMau5jnDAtiDu5ZkIQKPkl3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912957573031-1hutks26iq9mfgjm2p421gkgk6iimb96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
